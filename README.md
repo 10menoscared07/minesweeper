@@ -22,7 +22,7 @@ At its core, Minesweeper challenges players to uncover all safe cells on a grid 
 
 ![image](https://github.com/user-attachments/assets/43ffaca6-e73d-4bd7-9479-8ff5a199f6b4)
 
-<br>
+<br/>
 
 ![image](https://github.com/user-attachments/assets/635cdbcf-9714-4c15-8d83-0a9b8a66c3ba)
 
@@ -36,6 +36,8 @@ At its core, Minesweeper challenges players to uncover all safe cells on a grid 
 # Programming Overview
 
 - This simple game uses the libraries:
-  ``` pygame, random, sys '''
+  ``` pygame, random, sys ```
 
-- This is written in exactly ' 500 lines of code ' in python.
+- This is written in exactly ` 500 lines of code ` in python.
+
+### Stay tuned for updates and new features as the project evolves!
