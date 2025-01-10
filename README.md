@@ -1,7 +1,7 @@
 # Minesweeper
 Rediscover the classic puzzle game that has stood the test of time! Minesweeper, originally designed to test logic and deduction, has been a staple of computers worldwide since the 1990s. Now, experience a beautifully recreated version of this timeless gem with enhanced visuals
 
-Play the game online at : [Minesweeper](https://10menoscared07.github.io/minesweeper/)
+### Play the game online at : [Minesweeper](https://10menoscared07.github.io/minesweeper/)
 
 > [!NOTE]
 > The game can take some time to start up and it isnt optimized enough for web.
