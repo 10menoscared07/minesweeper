@@ -33,6 +33,8 @@ At its core, Minesweeper challenges players to uncover all safe cells on a grid 
   ``` pygame, random, sys ```
 
 - This is written in exactly ` 500 lines of code ` in python.
+  
+- Made in roughly ` 3 hours ` in total 
 
 
 
